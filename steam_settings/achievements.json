@@ -1,0 +1,330 @@
+[
+  {
+    "description": "Watched Julian's ending.",
+    "displayName": "Overcoming Death's Reign",
+    "hidden": 0,
+    "icon": "images/71daa92f58604c032e68832186c4c72ea1270b82.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "OVERCOMING_DEATHS_REIGNS"
+  },
+  {
+    "description": "Watched Ellen's ending.",
+    "displayName": "Homeward Bound",
+    "hidden": 0,
+    "icon": "images/71daa92f58604c032e68832186c4c72ea1270b82.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "HOMEWARD_BOUND"
+  },
+  {
+    "description": "Watched Thomas's ending.",
+    "displayName": "Nothing Ventured Nothing Gained",
+    "hidden": 0,
+    "icon": "images/595cc409a91278d846b6907e8c26bc83fa49896f.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "NOTHING_VENTURED_NOTHING_GAINED"
+  },
+  {
+    "description": "Watched Sarah's ending.",
+    "displayName": "The Power of Creation",
+    "hidden": 0,
+    "icon": "images/71daa92f58604c032e68832186c4c72ea1270b82.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "THE_POWER_OF_CREATION"
+  },
+  {
+    "description": "Watched Khalid's ending.",
+    "displayName": "Reminiscing by the Oasis",
+    "hidden": 0,
+    "icon": "images/71daa92f58604c032e68832186c4c72ea1270b82.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "REMINISCING_BY_THE_OASIS"
+  },
+  {
+    "description": "Watched Monika's ending.",
+    "displayName": "Monarchy over Anarchy",
+    "hidden": 0,
+    "icon": "images/71daa92f58604c032e68832186c4c72ea1270b82.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "MONARCHY_OVER_ANARCHY"
+  },
+  {
+    "description": "Watched Mikhail's ending.",
+    "displayName": "Reign of the New King",
+    "hidden": 0,
+    "icon": "images/71daa92f58604c032e68832186c4c72ea1270b82.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "REIGN_OF_THE_NEW_KING"
+  },
+  {
+    "description": "Watched Katarina's ending.",
+    "displayName": "Loose Ends and Knots",
+    "hidden": 0,
+    "icon": "images/595cc409a91278d846b6907e8c26bc83fa49896f.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "LOOSE_ENDS_AND_KNOTS"
+  },
+  {
+    "description": "Runaway girl joined your party.",
+    "displayName": "\"Sweet\" Façade",
+    "hidden": 0,
+    "icon": "images/8fea9e016e200e41d833a823cd7a7be59db66e7c.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "SWEET_FACADE"
+  },
+  {
+    "description": "Minstrel joined your party.",
+    "displayName": "In Search of Tale and Song",
+    "hidden": 0,
+    "icon": "images/8fea9e016e200e41d833a823cd7a7be59db66e7c.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "IN_SEARCH_OF_TALE_AND_SONG"
+  },
+  {
+    "description": "Muse joined your party.",
+    "displayName": "Goddess of Old Pidona",
+    "hidden": 0,
+    "icon": "images/8fea9e016e200e41d833a823cd7a7be59db66e7c.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "GODDESS_OF_OLD_PIDONA"
+  },
+  {
+    "description": "Charl joined your party.",
+    "displayName": "Claudius's Loyal Vassal",
+    "hidden": 0,
+    "icon": "images/8fea9e016e200e41d833a823cd7a7be59db66e7c.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "CLAUDIUS_LOYAL_VASSAL"
+  },
+  {
+    "description": "Nora joined your party.",
+    "displayName": "Smithing Knows No Gender",
+    "hidden": 0,
+    "icon": "images/8fea9e016e200e41d833a823cd7a7be59db66e7c.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "SMITHING_KNOWS_NO_GENDER"
+  },
+  {
+    "description": "Young Boy joined your party.",
+    "displayName": "Youth with a Dark Past and Eyes",
+    "hidden": 0,
+    "icon": "images/8fea9e016e200e41d833a823cd7a7be59db66e7c.jpg",
+    "icongray": "images/da816b3fb9eabe4dbe72221019156aa48efe7307.jpg",
+    "name": "YOUTH_WITH_A_DARK_PAST_AND_EYES"
+  },
+  {
+    "description": "Robin joined your party.",
+    "displayName": "Mysterious Caped Crusader",
+    "hidden": 0,
+    "icon": "images/8fea9e016e200e41d833a823cd7a7be59db66e7c.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "MYSTERIOUS_CAPED_CRUSADER"
+  },
+  {
+    "description": "Ward joined your party.",
+    "displayName": "Great Huntsman of the North",
+    "hidden": 0,
+    "icon": "images/8fea9e016e200e41d833a823cd7a7be59db66e7c.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "GREAT_HUNTSMAN_OF_THE_NORTH"
+  },
+  {
+    "description": "Paul joined your party.",
+    "displayName": "Say No to Thugs",
+    "hidden": 0,
+    "icon": "images/d4d67c004f5b7135641cc3ab5da2318ec0db10d2.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "SAY_NO_TO_THUGS"
+  },
+  {
+    "description": "Herman joined your party.",
+    "displayName": "One-Legged Ex-Pirate",
+    "hidden": 0,
+    "icon": "images/8fea9e016e200e41d833a823cd7a7be59db66e7c.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "ONE_LEGGED_EX_PIRATE"
+  },
+  {
+    "description": "",
+    "displayName": "Lost Limb and Youth Restored",
+    "hidden": 1,
+    "icon": "images/71daa92f58604c032e68832186c4c72ea1270b82.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "LOST_LIMB_AND_YOUTH_RESTORED"
+  },
+  {
+    "description": "Fullbright joined your party.",
+    "displayName": "A Merchant of Great Ambition",
+    "hidden": 0,
+    "icon": "images/8fea9e016e200e41d833a823cd7a7be59db66e7c.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "A_MERCHANT_OF_GREAT_AMBITION"
+  },
+  {
+    "description": "Zhi Ling joined your party.",
+    "displayName": "Archer of the Great Plains",
+    "hidden": 0,
+    "icon": "images/8fea9e016e200e41d833a823cd7a7be59db66e7c.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "ARCHER_OF_THE_GREAT_PLAINS"
+  },
+  {
+    "description": "Yang Fan joined your party.",
+    "displayName": "General of Xuan",
+    "hidden": 0,
+    "icon": "images/8fea9e016e200e41d833a823cd7a7be59db66e7c.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "GENERAL_OF_GEN_CASTLE"
+  },
+  {
+    "description": "Bai Meiniang joined your party.",
+    "displayName": "The Old Mistress of Soryu Magic",
+    "hidden": 0,
+    "icon": "images/8fea9e016e200e41d833a823cd7a7be59db66e7c.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "THE_OLD_MISTRESS_OF_SORYU_MAGIC"
+  },
+  {
+    "description": "Boston joined your party.",
+    "displayName": "Inhabitant of World's End",
+    "hidden": 0,
+    "icon": "images/8fea9e016e200e41d833a823cd7a7be59db66e7c.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "INHABITANT_OF_WORLDS_END_ISLAND"
+  },
+  {
+    "description": "Peony joined your party.",
+    "displayName": "Mischievous Forest Fairy",
+    "hidden": 0,
+    "icon": "images/8fea9e016e200e41d833a823cd7a7be59db66e7c.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "MISCHIEVOUS_FOREST_FAIRY"
+  },
+  {
+    "description": "Rukh joined your party.",
+    "displayName": "Warrior of Rashkuta",
+    "hidden": 0,
+    "icon": "images/d4d67c004f5b7135641cc3ab5da2318ec0db10d2.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "WARRIOR_OF_RASHKUTA"
+  },
+  {
+    "description": "Flurry joined your party.",
+    "displayName": "Where No Snowman Has Gone",
+    "hidden": 0,
+    "icon": "images/8fea9e016e200e41d833a823cd7a7be59db66e7c.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "WHERE_NO_SNOWMAN_HAS_GONE"
+  },
+  {
+    "description": "Undine joined your party.",
+    "displayName": "The Face of Genbu Magic",
+    "hidden": 0,
+    "icon": "images/8fea9e016e200e41d833a823cd7a7be59db66e7c.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "THE_FACE_OF_GENBU_MAGIC"
+  },
+  {
+    "description": "Tiberius joined your party.",
+    "displayName": "Acolyte of the Archlord",
+    "hidden": 0,
+    "icon": "images/8fea9e016e200e41d833a823cd7a7be59db66e7c.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "ACOLYTE_OF_THE_ARCHLORD"
+  },
+  {
+    "description": "Leonid joined your party.",
+    "displayName": "Holy Grail in Unholy Hands",
+    "hidden": 0,
+    "icon": "images/8fea9e016e200e41d833a823cd7a7be59db66e7c.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "HOLY_GRAIL_IN_UNHOLY_HANDS"
+  },
+  {
+    "description": "",
+    "displayName": "World's Greatest Workshop",
+    "hidden": 1,
+    "icon": "images/8fea9e016e200e41d833a823cd7a7be59db66e7c.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "WORLDS_GREATEST_WORKSHOP"
+  },
+  {
+    "description": "Defeated Alloces.",
+    "displayName": "Demon Warlord Defeated",
+    "hidden": 0,
+    "icon": "images/71daa92f58604c032e68832186c4c72ea1270b82.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "DEMON_WARLORD_DEFEATED"
+  },
+  {
+    "description": "Defeated Aunus.",
+    "displayName": "Infernal Demon Defeated",
+    "hidden": 0,
+    "icon": "images/595cc409a91278d846b6907e8c26bc83fa49896f.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "INFERNAL_DEMON_DEFEATED"
+  },
+  {
+    "description": "Defeated Forneus.",
+    "displayName": "Sea Demon Defeated",
+    "hidden": 0,
+    "icon": "images/71daa92f58604c032e68832186c4c72ea1270b82.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "SEA_DEMON_DEFEATED"
+  },
+  {
+    "description": "Defeated Buné.",
+    "displayName": "Draco Demon Defeated",
+    "hidden": 0,
+    "icon": "images/71daa92f58604c032e68832186c4c72ea1270b82.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "DRACO_DEMON_DEFEATED"
+  },
+  {
+    "description": "",
+    "displayName": "Duel in the Open Skies",
+    "hidden": 1,
+    "icon": "images/71daa92f58604c032e68832186c4c72ea1270b82.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "DUEL_IN_THE_OPEN_SKIES"
+  },
+  {
+    "description": "",
+    "displayName": "Catching the Mastermind",
+    "hidden": 1,
+    "icon": "images/71daa92f58604c032e68832186c4c72ea1270b82.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "CATCHING_THE_MASTERMIND"
+  },
+  {
+    "description": "",
+    "displayName": "Praise Be to Death",
+    "hidden": 1,
+    "icon": "images/71daa92f58604c032e68832186c4c72ea1270b82.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "PRAISE_BE_TO_DEATH"
+  },
+  {
+    "description": "Defeated Oblivion.",
+    "displayName": "Embodiment of Destruction",
+    "hidden": 0,
+    "icon": "images/71daa92f58604c032e68832186c4c72ea1270b82.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "EMBODIMENT_OF_DESTRUCTION"
+  },
+  {
+    "description": "",
+    "displayName": "Demonic Wings of Monstrosity",
+    "hidden": 1,
+    "icon": "images/b82082d20236fa086cb24a445bd955b5d74968dc.jpg",
+    "icongray": "images/572d461566e56dbb5c90b3b209697139051b21cb.jpg",
+    "name": "DEMONIC_WINGS_OF_MONSTROSITY"
+  },
+  {
+    "description": "",
+    "displayName": "Heroes of World Trade",
+    "hidden": 1,
+    "icon": "images/71daa92f58604c032e68832186c4c72ea1270b82.jpg",
+    "icongray": "images/da816b3fb9eabe4dbe72221019156aa48efe7307.jpg",
+    "name": "HEROES_OF_WORLD_TRADE"
+  }
+]
